@@ -1,7 +1,7 @@
 # VPKE_mian
 Source code will be released later.
 
-Title: "Visual Perception-Based Retrieval-Enhanced Generation for Image-Text Matching"
+Title: "VisualRAG: Knowledge-Guided Retrieval Augmentation for Image-Text Matching"
 
 **Open Source Resources:**
 

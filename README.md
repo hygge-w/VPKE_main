@@ -1,12 +1,6 @@
 # VPKE_mian
-Source code will be released later.
+Source code will not be released.
 
 Title: "VisualRAG: Knowledge-Guided Retrieval Augmentation for Image-Text Matching"
 
-**Open Source Resources:**
-
-1. **Datasets**: We will open-source a rich collection of datasets, including public datasets and preprocessed datasets enhanced with visual language model knowledge. These datasets are highly diverse and representative, designed to meet the needs of various research tasks and are suitable for model training, performance evaluation, and data analysis.
-2. **Pretrained Models**: The project link provides pretrained models trained on large-scale data.
-3. **Training Models**: In addition to pretrained models, we have also open-sourced the code and related documentation for training the models.
-
-We welcome researchers to visit the open-source link, actively use these resources, and look forward to your valuable feedback!
+To protect intellectual property and maintain a competitive advantage in ongoing research, we have decided not to release the source code at this time. We appreciate the research community's understanding and encourage interested researchers to refer to our paper for detailed methodology and results.
